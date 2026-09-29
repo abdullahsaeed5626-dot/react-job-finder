@@ -2,7 +2,6 @@ import { useState, useEffect } from "react";
 import { useParams, Link, useNavigate } from "react-router-dom";
 import { getJobById } from "../services/jobApi";
 import type { Job } from "../types/job";
-import { useJobContext } from "../context/JobContext";
 
 function ApplyJob() {
   const { id } = useParams();

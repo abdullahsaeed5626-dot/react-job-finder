@@ -1,34 +1,3 @@
-// import { Link } from "react-router-dom";
-
-// type JobCardProps = {
-//   id: number;
-//   title: string;
-//   company: string;
-//   location: string;
-// };
-
-// function JobCard({ id, title, company, location }: JobCardProps) {
-//   return (
-//     <article className="job-card">
-//       <div>
-//         <h3>{title}</h3>
-
-//         <p>{company}</p>
-
-//         <p>{location}</p>
-//       </div>
-
-//       <Link to={`/jobs/${id}`} className="details-button">
-//         View Details
-//       </Link>
-//     </article>
-//   );
-// }
-
-// export default JobCard;
-
-// gemeni code for test
-
 import { Link } from "react-router-dom";
 import { useJobContext } from "../context/JobContext";
 import type { Job } from "../types/job";
