@@ -71,3 +71,7 @@ src/
 ![Job Finder Pages](./src/Screenshots/job_finder_pages.png)
 ![Job Finder Apply Form](./src/Screenshots/job_finder_apply_form.png)
 ![Job Finder Res. & skeletons](./src/Screenshots/job_finder_res.%20&%20skeletons.png)
+
+**Live link & GitHub Repository**
+![Live Demo](https://react-job-finder-five.vercel.app/)
+![GitHub Repo](https://github.com/abdullahsaeed5626-dot/react-job-finder.git)
