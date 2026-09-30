@@ -111,16 +111,16 @@ This project provides a frontend interface for browsing remote job opportunities
 
 ## 🛠️ Tech Stack
 
-| Technology | Usage |
-| -------------------- | ------------------------------ |
-| ⚛️ React | Frontend application |
-| 📘 TypeScript | Type-safe development |
-| ⚡ Vite | Development and build tool |
-| 🔄 React Router | Application routing |
-| 🧠 React Context API | Shared application state |
-| 🎨 CSS | Styling and responsive UI |
-| 🌐 Remotive API | Remote job data |
-| 💾 LocalStorage | Persistent saved jobs and theme |
+| Technology           | Usage                           |
+| -------------------- | ------------------------------- |
+| ⚛️ React             | Frontend application            |
+| 📘 TypeScript        | Type-safe development           |
+| ⚡ Vite              | Development and build tool      |
+| 🔄 React Router      | Application routing             |
+| 🧠 React Context API | Shared application state        |
+| 🎨 CSS               | Styling and responsive UI       |
+| 🌐 Remotive API      | Remote job data                 |
+| 💾 LocalStorage      | Persistent saved jobs and theme |
 
 ---
 
@@ -208,6 +208,8 @@ job-finder/
 │   │   ├── SavedJobs.tsx
 │   │   ├── ApplyJob.tsx
 │   │   └── NotFound.tsx
+│   │
+│   ├── Screenshots
 │   │
 │   ├── services/
 │   │   └── ...
